@@ -1,0 +1,8 @@
+﻿  椭圆曲线.cpp
+C:\Users\24505\Desktop\代码狗\信息安全数学基础代码\椭圆曲线\椭圆曲线\椭圆曲线.cpp(111,30): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\24505\Desktop\代码狗\信息安全数学基础代码\椭圆曲线\椭圆曲线\椭圆曲线.cpp(116,21): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 87 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  椭圆曲线.vcxproj -> C:\Users\24505\Desktop\代码狗\信息安全数学基础代码\椭圆曲线\x64\Release\椭圆曲线.exe
